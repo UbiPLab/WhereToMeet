@@ -1,0 +1,128 @@
+{
+  "suggestion": {
+    "keywords": [],
+    "cities": []
+  },
+  "count": "84",
+  "infocode": "10000",
+  "pois": [
+    {
+      "parent": "B000A7BD6C",
+      "address": "双清路30号清华大学清华大学凯风人文社科图书馆附近",
+      "distance": "477",
+      "pname": "北京市",
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "opentime2": [],
+        "rating": "4.2",
+        "open_time": [],
+        "meal_ordering": "0"
+      },
+      "biz_type": "diner",
+      "cityname": "北京市",
+      "type": "餐饮服务;快餐厅;快餐厅",
+      "photos": [
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/6c5c68ee78f316622455f96af83ad0e0"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/6da08a6f31df898768262ae9d0711fa6"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/d3453f7dcc0d250bc93035d8c4b235c4"
+        }
+      ],
+      "typecode": "050300",
+      "shopinfo": "0",
+      "poiweight": [],
+      "childtype": "309",
+      "adname": "海淀区",
+      "name": "清华大学快餐厅",
+      "location": "116.328251,40.005671",
+      "tel": [],
+      "shopid": [],
+      "id": "B0FFG3AY0F"
+    },
+    {
+      "parent": [],
+      "address": "双清路30号清华大学",
+      "distance": "481",
+      "pname": "北京市",
+      "importance": [],
+      "biz_ext": {
+        "cost": "14.00",
+        "opentime2": "10:00-22:00",
+        "rating": "4.6",
+        "open_time": "10:00-22:00",
+        "meal_ordering": "0"
+      },
+      "biz_type": "diner",
+      "cityname": "北京市",
+      "type": "餐饮服务;中餐厅;中餐厅",
+      "photos": [
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/2c553ef647a4fb4e26c355efbf323e50"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/b63693ae448946f011adaa8538607df6"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/fd5df943aa331817f7bf9eb04a27e4db"
+        }
+      ],
+      "typecode": "050100",
+      "shopinfo": "0",
+      "poiweight": [],
+      "childtype": [],
+      "adname": "海淀区",
+      "name": "清华大学清芬园",
+      "location": "116.328368,40.005675",
+      "tel": "010-62782865",
+      "shopid": [],
+      "id": "B0FFGCT529"
+    },
+    {
+      "parent": "B000A844IV",
+      "address": "双清路30号清华大学西北社区",
+      "distance": "488",
+      "pname": "北京市",
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "rating": []
+      },
+      "biz_type": [],
+      "cityname": "北京市",
+      "type": "商务住宅;住宅区;住宅小区",
+      "photos": [
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/5385a28fa310086a9931687f"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/509f0e04aa26924120fadc0c67d00c72"
+        }
+      ],
+      "typecode": "120302",
+      "shopinfo": "0",
+      "poiweight": [],
+      "childtype": "101",
+      "adname": "海淀区",
+      "name": "清华大学西北社区(南门)",
+      "location": "116.32055,40.010955",
+      "tel": [],
+      "shopid": [],
+      "id": "B000A84OZD"
+    }
+  ],
+  "status": "1",
+  "info": "OK"
+}

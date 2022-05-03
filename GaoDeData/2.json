@@ -1,0 +1,704 @@
+{
+  "suggestion": {
+    "keywords": [],
+    "cities": []
+  },
+  "count": "84",
+  "infocode": "10000",
+  "pois": [
+    {
+      "parent": [],
+      "address": "清华大学学生公寓7号楼",
+      "distance": "218",
+      "pname": "北京市",
+      "importance": [],
+      "biz_ext": {
+        "cost": "17.00",
+        "opentime2": "08:00-21:00",
+        "rating": "4.7",
+        "open_time": "08:00-21:00",
+        "meal_ordering": "0"
+      },
+      "biz_type": "diner",
+      "cityname": "北京市",
+      "type": "餐饮服务;餐饮相关场所;餐饮相关",
+      "photos": [
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/6b064819f6e840ec90c726f6ef5e75a4"
+        },
+        {
+          "title": "环境",
+          "url": "http://store.is.autonavi.com/showpic/121fc9f76216b9b70bd55242d855f498"
+        },
+        {
+          "title": "环境",
+          "url": "http://store.is.autonavi.com/showpic/bdb07c94dfa4f35f6ff225d770258403"
+        }
+      ],
+      "typecode": "050000",
+      "shopinfo": "0",
+      "poiweight": [],
+      "childtype": [],
+      "adname": "海淀区",
+      "name": "虎头军煎饼(清华大学天猫店)",
+      "location": "116.326550,40.011520",
+      "tel": "010-62781616;15300234926",
+      "shopid": [],
+      "id": "B0HG57BCEZ"
+    },
+    {
+      "parent": "B0FFJDG378",
+      "address": "双清路30号清华大学",
+      "distance": "218",
+      "pname": "北京市",
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "rating": "3.5"
+      },
+      "biz_type": [],
+      "cityname": "北京市",
+      "type": "生活服务;邮局;邮局",
+      "photos": [
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/ffbec4d9d87d0f3c6b79ece0a669eda7"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/2269238786af9cdb3c4a8fe943b7f01b"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/abcb6ee71069ed0b96b15a214880e061"
+        }
+      ],
+      "typecode": "070400",
+      "shopinfo": "2",
+      "poiweight": [],
+      "childtype": "202",
+      "adname": "海淀区",
+      "name": "中国邮政(紫荆公寓邮政所)",
+      "location": "116.328474,40.010142",
+      "tel": "010-62796884",
+      "shopid": [],
+      "id": "B0FFH0NU9G"
+    },
+    {
+      "parent": "B000A7BD6C",
+      "address": "清华大学学生服务中心旁",
+      "distance": "220",
+      "pname": "北京市",
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "rating": []
+      },
+      "biz_type": [],
+      "cityname": "北京市",
+      "type": "生活服务;生活服务场所;生活服务场所",
+      "photos": [],
+      "typecode": "070000",
+      "shopinfo": "0",
+      "poiweight": [],
+      "childtype": "309",
+      "adname": "海淀区",
+      "name": "清华大学吸烟区",
+      "location": "116.328588,40.009691",
+      "tel": [],
+      "shopid": [],
+      "id": "B0FFFPT6K8"
+    },
+    {
+      "parent": "B000A7BD6C",
+      "address": "双清路30号清华大学",
+      "distance": "239",
+      "pname": "北京市",
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "rating": []
+      },
+      "biz_type": [],
+      "cityname": "北京市",
+      "type": "商务住宅;住宅区;宿舍",
+      "photos": [
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/5385a28fa310086a993166c3"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/5385a28fa310086a99316832"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/5385a28fa310086a9931682f"
+        }
+      ],
+      "typecode": "120303",
+      "shopinfo": "0",
+      "poiweight": [],
+      "childtype": "309",
+      "adname": "海淀区",
+      "name": "清华大学23号宿舍楼",
+      "location": "116.323234,40.009976",
+      "tel": [],
+      "shopid": [],
+      "id": "B000A9PIHZ"
+    },
+    {
+      "parent": "B000A7BD6C",
+      "address": "双清路30号清华大学",
+      "distance": "242",
+      "pname": "北京市",
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "rating": []
+      },
+      "biz_type": [],
+      "cityname": "北京市",
+      "type": "商务住宅;住宅区;宿舍",
+      "photos": [
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/5385a28fa310086a9931689d"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/5385a28fa310086a993168a2"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/5385a28fa310086a993168c5"
+        }
+      ],
+      "typecode": "120303",
+      "shopinfo": "0",
+      "poiweight": [],
+      "childtype": "309",
+      "adname": "海淀区",
+      "name": "清华大学21号宿舍楼",
+      "location": "116.323218,40.009167",
+      "tel": [],
+      "shopid": [],
+      "id": "B000A9PIRY"
+    },
+    {
+      "parent": "B000A7BD6C",
+      "address": "双清路30号清华大学",
+      "distance": "243",
+      "pname": "北京市",
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "rating": "3.0"
+      },
+      "biz_type": [],
+      "cityname": "北京市",
+      "type": "商务住宅;住宅区;宿舍",
+      "photos": [
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/5385a28fa310086a993168a7"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/fc7193160c3a1bf77210ae221266e7ae"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/5385a28fa310086a993168a4"
+        }
+      ],
+      "typecode": "120303",
+      "shopinfo": "0",
+      "poiweight": [],
+      "childtype": "309",
+      "adname": "海淀区",
+      "name": "清华大学学生公寓20号楼",
+      "location": "116.324176,40.007927",
+      "tel": [],
+      "shopid": [],
+      "id": "B0FFG39KML"
+    },
+    {
+      "parent": "B000A7BD6C",
+      "address": "双清路30号清华大学紫荆学生公寓内",
+      "distance": "254",
+      "pname": "北京市",
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "rating": []
+      },
+      "biz_type": [],
+      "cityname": "北京市",
+      "type": "生活服务;生活服务场所;生活服务场所",
+      "photos": [
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/5385a28ea310086a9931641d"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/5385a28ea310086a9931641f"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/5385a28ea310086a9931641b"
+        }
+      ],
+      "typecode": "070000",
+      "shopinfo": "0",
+      "poiweight": [],
+      "childtype": "309",
+      "adname": "海淀区",
+      "name": "清华大学学生公寓辅导员工作站",
+      "location": "116.327666,40.011503",
+      "tel": [],
+      "shopid": [],
+      "id": "B0FFFALUMZ"
+    },
+    {
+      "parent": "B000A7BD6C",
+      "address": "双清路30号清华大学",
+      "distance": "260",
+      "pname": "北京市",
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "rating": []
+      },
+      "biz_type": [],
+      "cityname": "北京市",
+      "type": "商务住宅;住宅区;宿舍",
+      "photos": [
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/5385a28fa310086a993166b6"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/2948c98ac81b181a8da0719bfe240139"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/5385a28fa310086a993166b3"
+        }
+      ],
+      "typecode": "120303",
+      "shopinfo": "0",
+      "poiweight": [],
+      "childtype": "309",
+      "adname": "海淀区",
+      "name": "清华大学学生公寓16号楼",
+      "location": "116.327866,40.007748",
+      "tel": [],
+      "shopid": [],
+      "id": "B000A9PIAR"
+    },
+    {
+      "parent": "B000A7BD6C",
+      "address": "双清路30号清华大学",
+      "distance": "261",
+      "pname": "北京市",
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "rating": []
+      },
+      "biz_type": [],
+      "cityname": "北京市",
+      "type": "商务住宅;住宅区;宿舍",
+      "photos": [],
+      "typecode": "120303",
+      "shopinfo": "0",
+      "poiweight": [],
+      "childtype": "309",
+      "adname": "海淀区",
+      "name": "清华大学学生公寓37号楼",
+      "location": "116.328462,40.008199",
+      "tel": [],
+      "shopid": [],
+      "id": "B0FFFAKF3R"
+    },
+    {
+      "parent": "B000A7BD6C",
+      "address": "双清路30号清华大学",
+      "distance": "270",
+      "pname": "北京市",
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "rating": []
+      },
+      "biz_type": [],
+      "cityname": "北京市",
+      "type": "商务住宅;住宅区;宿舍",
+      "photos": [],
+      "typecode": "120303",
+      "shopinfo": "0",
+      "poiweight": [],
+      "childtype": "309",
+      "adname": "海淀区",
+      "name": "清华大学学生公寓14号楼",
+      "location": "116.326452,40.007201",
+      "tel": [],
+      "shopid": [],
+      "id": "B0FFFAKF3A"
+    },
+    {
+      "parent": "B000A7BD6C",
+      "address": "双清路30号清华大学",
+      "distance": "271",
+      "pname": "北京市",
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "rating": "3.5"
+      },
+      "biz_type": [],
+      "cityname": "北京市",
+      "type": "商务住宅;住宅区;宿舍",
+      "photos": [
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/ca32177a0cff473404af264c0f324db2"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/4a2ac1689b411479e1b1db72c0c0c8a1"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/b51ec1c784891ebd1b7311bf2669db08"
+        }
+      ],
+      "typecode": "120303",
+      "shopinfo": "0",
+      "poiweight": [],
+      "childtype": "309",
+      "adname": "海淀区",
+      "name": "清华大学19号宿舍楼",
+      "location": "116.323256,40.008377",
+      "tel": [],
+      "shopid": [],
+      "id": "B000A9PIRX"
+    },
+    {
+      "parent": "B000A7BD6C",
+      "address": "双清路30号清华大学",
+      "distance": "292",
+      "pname": "北京市",
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "rating": []
+      },
+      "biz_type": [],
+      "cityname": "北京市",
+      "type": "商务住宅;住宅区;宿舍",
+      "photos": [
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/5385a28ea310086a99316463"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/5385a28ea310086a99316466"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/5385a28ea310086a99316475"
+        }
+      ],
+      "typecode": "120303",
+      "shopinfo": "0",
+      "poiweight": [],
+      "childtype": "309",
+      "adname": "海淀区",
+      "name": "清华大学学生公寓33号楼",
+      "location": "116.329189,40.00864",
+      "tel": [],
+      "shopid": [],
+      "id": "B000A9PNCN"
+    },
+    {
+      "parent": "B000A7BD6C",
+      "address": "双清路30号清华大学内",
+      "distance": "298",
+      "pname": "北京市",
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "rating": []
+      },
+      "biz_type": [],
+      "cityname": "北京市",
+      "type": "生活服务;生活服务场所;生活服务场所",
+      "photos": [],
+      "typecode": "070000",
+      "shopinfo": "0",
+      "poiweight": [],
+      "childtype": "309",
+      "adname": "海淀区",
+      "name": "清华大学澡卡充值处",
+      "location": "116.323297,40.007899",
+      "tel": [],
+      "shopid": [],
+      "id": "B0FFFFK7RE"
+    },
+    {
+      "parent": "B000A7BD6C",
+      "address": "双清路30号清华大学",
+      "distance": "303",
+      "pname": "北京市",
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "rating": []
+      },
+      "biz_type": [],
+      "cityname": "北京市",
+      "type": "商务住宅;住宅区;宿舍",
+      "photos": [
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/5385a28fa310086a993166af"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/5385a28fa310086a993166ac"
+        }
+      ],
+      "typecode": "120303",
+      "shopinfo": "0",
+      "poiweight": [],
+      "childtype": "309",
+      "adname": "海淀区",
+      "name": "清华大学学生公寓17号楼",
+      "location": "116.328301,40.007521",
+      "tel": [],
+      "shopid": [],
+      "id": "B000A96ETA"
+    },
+    {
+      "parent": "B000A7BD6C",
+      "address": "紫荆学生公寓20号对面",
+      "distance": "307",
+      "pname": "北京市",
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "rating": []
+      },
+      "biz_type": [],
+      "cityname": "北京市",
+      "type": "生活服务;洗浴推拿场所;洗浴推拿场所",
+      "photos": [
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/5385a28fa310086a99316819"
+        }
+      ],
+      "typecode": "071400",
+      "shopinfo": "0",
+      "poiweight": [],
+      "childtype": "309",
+      "adname": "海淀区",
+      "name": "清华大学西区公共浴室",
+      "location": "116.323181,40.007887",
+      "tel": [],
+      "shopid": [],
+      "id": "B000A96G2B"
+    },
+    {
+      "parent": [],
+      "address": "清华大学西区文化长廊",
+      "distance": "319",
+      "pname": "北京市",
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "rating": "3.0"
+      },
+      "biz_type": [],
+      "cityname": "北京市",
+      "type": "生活服务;美容美发店;美容美发店",
+      "photos": [
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/1f9c2eda081c62aa767769b0ee009f5f"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/3daaded8da99bfa12e462f0008bcb74a"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/4cc07795ff5df99b95cf8cd6068c47b7"
+        }
+      ],
+      "typecode": "071100",
+      "shopinfo": "0",
+      "poiweight": [],
+      "childtype": [],
+      "adname": "海淀区",
+      "name": "唯美专业美发染烫店",
+      "location": "116.323588,40.007404",
+      "tel": "18801412021",
+      "shopid": [],
+      "id": "B0FFFAIQFY"
+    },
+    {
+      "parent": "B000A7BD6C",
+      "address": "成府路45-1号",
+      "distance": "320",
+      "pname": "北京市",
+      "importance": [],
+      "biz_ext": {
+        "cost": "14.00",
+        "opentime2": "06:30-23:00",
+        "rating": "4.6",
+        "open_time": "06:30-23:00",
+        "meal_ordering": "0"
+      },
+      "biz_type": "diner",
+      "cityname": "北京市",
+      "type": "餐饮服务;中餐厅;中餐厅",
+      "photos": [
+        {
+          "title": "粽子",
+          "url": "http://store.is.autonavi.com/showpic/60d276b6754f8688445e0865ae461071"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/f942ad8574ea6af9280bbbd0493e54b8"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/2d12674745020a881333b35b1a875f55"
+        }
+      ],
+      "typecode": "050100",
+      "shopinfo": "0",
+      "poiweight": [],
+      "childtype": "309",
+      "adname": "海淀区",
+      "name": "清华大学紫荆园餐厅",
+      "location": "116.328676,40.011629",
+      "tel": [],
+      "shopid": [],
+      "id": "B0FFF4NS7W"
+    },
+    {
+      "parent": [],
+      "address": "双清路30号清华大学",
+      "distance": "320",
+      "pname": "北京市",
+      "importance": [],
+      "biz_ext": {
+        "cost": "13.00",
+        "opentime2": "10:00-21:00",
+        "rating": "4.3",
+        "open_time": "10:00-21:00",
+        "meal_ordering": "0"
+      },
+      "biz_type": "diner",
+      "cityname": "北京市",
+      "type": "餐饮服务;中餐厅;中餐厅",
+      "photos": [
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/13c11243c7caa381c742325387aeb1f9"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/5382cfc7a310b9502c0d19b9"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/95ac764334269903f06396140a014a5a"
+        }
+      ],
+      "typecode": "050100",
+      "shopinfo": "0",
+      "poiweight": [],
+      "childtype": [],
+      "adname": "海淀区",
+      "name": "听涛快餐厅",
+      "location": "116.326689,40.006771",
+      "tel": [],
+      "shopid": [],
+      "id": "B0FFFALURL"
+    },
+    {
+      "parent": "B000A7BD6C",
+      "address": "清华园1号",
+      "distance": "321",
+      "pname": "北京市",
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "rating": []
+      },
+      "biz_type": [],
+      "cityname": "北京市",
+      "type": "商务住宅;住宅区;宿舍",
+      "photos": [],
+      "typecode": "120303",
+      "shopinfo": "0",
+      "poiweight": [],
+      "childtype": "309",
+      "adname": "海淀区",
+      "name": "清华大学学生公寓2号楼",
+      "location": "116.324820,40.006860",
+      "tel": [],
+      "shopid": [],
+      "id": "B0FFHRO41M"
+    },
+    {
+      "parent": [],
+      "address": "北五环路紫荆学生公寓1号楼",
+      "distance": "321",
+      "pname": "北京市",
+      "importance": [],
+      "biz_ext": {
+        "cost": [],
+        "rating": []
+      },
+      "biz_type": [],
+      "cityname": "北京市",
+      "type": "生活服务;摄影冲印店;摄影冲印",
+      "photos": [
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/39ca23472befcb72242481935ffb17ed"
+        },
+        {
+          "title": [],
+          "url": "http://store.is.autonavi.com/showpic/045c927f928ba4bd06e95ca68e89dda6"
+        },
+        {
+          "title": "门头照",
+          "url": "http://store.is.autonavi.com/showpic/7cb72b70a122e4f410f9aa57867e9abc"
+        }
+      ],
+      "typecode": "071300",
+      "shopinfo": "0",
+      "poiweight": [],
+      "childtype": [],
+      "adname": "海淀区",
+      "name": "清大嘉艺",
+      "location": "116.323616,40.007365",
+      "tel": "010-62789299;13301252869",
+      "shopid": [],
+      "id": "B0FFI4V4DH"
+    }
+  ],
+  "status": "1",
+  "info": "OK"
+}
